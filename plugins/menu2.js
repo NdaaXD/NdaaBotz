@@ -58,7 +58,7 @@ const defaultMenu = {
     body: '┃ ◇ %cmd %islimit %isPremium',
     footer: '┗━━━━━━⬣\n',
     after: `
-*%npmname@^%version*
+*NdaaBotz-MD@^%version*
 ${'```%npmdesc```'}
 `,
 }
@@ -179,7 +179,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
              {
              urlButton: {
                displayText: 'Owner',
-               PhoneNumber: 'https://wa.me/17608914335'
+               PhoneNumber: 'https://wa.me/6282145614361'
              }
 
            },
@@ -192,8 +192,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
           },
               {
             quickReplyButton: {
-              displayText: 'SC',
-              id: '.sc',
+              displayText: 'donasi',
+              id: '.donasi',
             }
            }]
          }
